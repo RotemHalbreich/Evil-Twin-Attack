@@ -23,7 +23,7 @@
 `git clone https://github.com/LeviEyal/EvilTwin.git`
 * *Run* `sudo install python3` *in the Command Line to download Python.*
 * *Run* `sudo sh Requierments.sh` *in the Command Line to download all the requirements.*
-* *Run* `sudo python3 evilTwin.py` *in the Command Line to execute the program.*
+* *Run* `sudo python3 access_point.py` *in the Command Line to execute the program.*
 
 ## ⚔️ *__ATTACK:__*
 * *Step 1: Choose an interface (NIC) for monitoring, and put it in 'Monitor Mode'.*
